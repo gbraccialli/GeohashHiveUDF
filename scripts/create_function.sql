@@ -1,0 +1,2 @@
+CREATE TEMPORARY FUNCTION GeohashEncode as 'com.github.gbraccialli.GeohashHiveUDF.UDFGeohashEncode';
+CREATE TEMPORARY FUNCTION GeohashDecode as 'com.github.gbraccialli.GeohashHiveUDF.UDFGeohashDecode';
