@@ -1,8 +1,6 @@
 package com.github.gbraccialli.GeohashHiveUDF;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 
 import com.github.davidmoten.geo.GeoHash;
