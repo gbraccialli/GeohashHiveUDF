@@ -1,5 +1,6 @@
 --wget https://github.com/nmaillard/Phoenix-Hive/blob/master/target/phoenix-hive-4.2.0-jar-with-dependencies.jar
---wget 
+--wget https://github.com/gbraccialli/GeohashHiveUDF/raw/master/target/GeohashHiveUDF-1.0-SNAPSHOT-jar-with-dependencies.jar
+
 
 add jar /jars/GeohashHiveUDF-1.0-SNAPSHOT-jar-with-dependencies.jar;
 add jar /jars/phoenix-hive-4.2.0-jar-with-dependencies.jar;
